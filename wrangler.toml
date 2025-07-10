@@ -1,5 +1,5 @@
 # wrangler.toml
-name = 'dingyuezhuanhuan'
+name = 'dingyuezhuanhuan-qianduan'
 main = "src/index.js"
 compatibility_date = "2025-04-16"
 compatibility_flags = ["nodejs_compat"]
